@@ -6,6 +6,9 @@
 - **Decentralized, Not Nationalized** – Control resides in local assemblies (Guilds) and meshes upward via consent.
 - **Visible Flow** – All economic activity is legible via the Φ‑Grid, making resource circulation as transparent as civic discourse.
 
+<img src="https://github.com/ravaioli/d.conomy/blob/main/docs/d.conomy%20%5BVectorized%5D.png" alt="d.conomy" style="width:75%; height:auto;">
+
+
 ## Core Components
 
 | Component | Description |
